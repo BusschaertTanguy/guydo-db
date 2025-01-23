@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuydoDB.Core", "src\GuydoDB.Core\GuydoDB.Core.csproj", "{D2D15138-E40F-4741-9351-489C29A90203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuydoDB.CLI", "src\GuydoDB.CLI\GuydoDB.CLI.csproj", "{E0721270-66C3-4363-945E-E8858B7BE247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D15138-E40F-4741-9351-489C29A90203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D15138-E40F-4741-9351-489C29A90203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D15138-E40F-4741-9351-489C29A90203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D15138-E40F-4741-9351-489C29A90203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0721270-66C3-4363-945E-E8858B7BE247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0721270-66C3-4363-945E-E8858B7BE247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0721270-66C3-4363-945E-E8858B7BE247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0721270-66C3-4363-945E-E8858B7BE247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
