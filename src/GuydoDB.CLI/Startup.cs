@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using GuydoDB.Core;
 using Microsoft.Extensions.Options;
 
 namespace GuydoDB.CLI;

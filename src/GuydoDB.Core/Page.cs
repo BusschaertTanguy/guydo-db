@@ -1,4 +1,4 @@
-﻿namespace GuydoDB.CLI;
+﻿namespace GuydoDB.Core;
 
 public readonly struct Page(byte[] data)
 {
